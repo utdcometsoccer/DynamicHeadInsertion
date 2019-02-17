@@ -21,9 +21,7 @@
     "url": "https://github.com/utdcometsoccer/DynamicHeadInsertion/issues"
   },
   "homepage": "https://github.com/utdcometsoccer/DynamicHeadInsertion#readme",
-  "dependencies": {
-    "@types/dynamicheadinsertion": "file:../@types/DynamicHeadInsertion"
-  },
+  "dependencies": {},
   "files": [
     "dist/"
   ]

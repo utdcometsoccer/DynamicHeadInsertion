@@ -4,7 +4,8 @@
   "description": "Dynamically insert elements into the head of an HTML page",
   "main": "dist/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",

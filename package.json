@@ -1,6 +1,6 @@
 {
   "name": "dynamicheadinsertion",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Dynamically insert elements into the head of an HTML page",
   "main": "dist/index.js",
   "scripts": {

@@ -23,5 +23,6 @@
   "homepage": "https://github.com/utdcometsoccer/DynamicHeadInsertion#readme",
   "dependencies": {
     "@types/dynamicheadinsertion": "file:../@types/DynamicHeadInsertion"
-  }
+  },
+  "files":["dist/"]
 }
